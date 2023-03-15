@@ -1,5 +1,5 @@
 .DS_STORE
-frontend/node_modules
+frontend2/node_modules
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
